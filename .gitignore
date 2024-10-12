@@ -1,0 +1,10 @@
+/old
+/kinesis-2040-hand/production
+/kinesis-2040-hand/kinesis-2040-hand-backups
+/kinesis-2040-pcb/production
+/kinesis-2040-pcb/kinesis-2040-pcb-backups
+/kinesis-2040-thumb/production
+/kinesis-2040-thumb/kinesis-2040-thumb-backups
+fp-info-cache
+fp-lib-table
+keyautoplace.log
